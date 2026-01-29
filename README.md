@@ -42,3 +42,21 @@ It helps in understanding basic drawing and modifying commands in AutoCAD.
 - Go to Symbols & Arrows → Arrow size: 3
 - Go to Text → Text height: 4
 - Click OK
+   ### ORDER 
+
+1.  cycloids → for all curve diagrams
+
+2.   points-projections → for simple points projections
+
+3.   lines-projections → straight lines
+
+4.   line-inclined → inclined lines exercises
+
+5.    polygonal-plates → polygonal lamina projections
+
+6.    solids-projections → solids like prisms, pyramids, cylinders
+
+7.    solids-development → unfolded solids
+
+8.    orthographic-projection → orthographic views from isometric
+            
