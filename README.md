@@ -58,5 +58,5 @@ It helps in understanding basic drawing and modifying commands in AutoCAD.
 
 7.    solids-development → unfolded solids
 
-8.    orthographic-projection → orthographic views from isometric
+8.   main (or) orthographic-projection → orthographic views from isometric
             
