@@ -11,56 +11,34 @@ It helps in understanding basic drawing and modifying commands in AutoCAD.
 - Modify commands
 - Dimensioning
 
-My  Screen Settings ;
+## My Screen Settings
 
-Units
+### Units
+- Type: Decimal
+- Precision: 0.00
+- Units Scale: Millimeters
+- Units for specifying intensity: International  
+- Click OK
 
-Type: Decimal
+### Limits
+- Lower-left corner: 0,0
+- Upper-right corner: 100,100
 
-Precision: 0.00
+### Grid
+- Grid spacing: 10
 
-Units Scale: Millimeters
+### Zoom
+- Z → A (Zoom All)
 
-Units for specifying intensity: International
+### Object Snap (OS)
+- Open Drafting Settings
+- Go to Object Snap tab
+- Click Select All snap modes
+- Click OK
 
-Click OK
-
-Limits
-
-Lower-left corner: 0,0
-
-Upper-right corner: 100,100
-
-Grid
-
-Grid spacing: 10
-
-Zoom
-
-Z → A (Zoom All)
-
-Object Snap (OS)
-
-Open Drafting Settings
-
-Go to Object Snap tab
-
-Click Select All snap modes
-
-Click OK
-
-Dimension Style Manager
-
-Type D
-
-Click Modify
-
-Go to Symbols & Arrows
-
-Arrow size: 3
-
-Go to Text
-
-Text height: 4
-
-Click OK
+### Dimension Style Manager
+- Type D
+- Click Modify
+- Go to Symbols & Arrows → Arrow size: 3
+- Go to Text → Text height: 4
+- Click OK
